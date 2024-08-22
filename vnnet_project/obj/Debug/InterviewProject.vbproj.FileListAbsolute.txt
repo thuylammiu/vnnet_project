@@ -1,0 +1,13 @@
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\bin\Debug\InterviewProject.exe.config
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\bin\Debug\InterviewProject.exe
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\bin\Debug\InterviewProject.pdb
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\bin\Debug\InterviewProject.xml
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.AssemblyReference.cache
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.frmMain.resources
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.Resources.resources
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.GenerateResource.cache
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.CoreCompileInputs.cache
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.exe
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.xml
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.pdb
+C:\MyProgram\MyLoveJob\assigment\interviewproject\InterviewProject\obj\Debug\InterviewProject.frmDetail.resources

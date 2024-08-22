@@ -1,0 +1,7 @@
+CompanyName: MeterCo
+Address: Windcrest Ln.
+City: Fort Worth
+PhoneNumber: 5454589
+State: 8
+Zipcode: 54545
+Dirtied: True

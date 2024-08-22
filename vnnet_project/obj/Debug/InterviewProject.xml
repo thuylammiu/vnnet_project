@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InterviewProject
+</name>
+</assembly>
+<members>
+<member name="T:InterviewProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:InterviewProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:InterviewProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:InterviewProject.CVenders.Item(System.Int32)">
+ <summary>
+ Item property that takes an integer as a key, 
+ </summary>
+ <param name="Key">Zero based</param>
+</member>
+<member name="T:InterviewProject.EStates">
+ <summary>
+ Enumeration to hold state value IDs
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.BindControls">
+ <summary>
+ Creates and assigns bindings to all form fields.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.UpdateDataBindings">
+ <summary>
+ Clear all bindings, then calls BindControls
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdNext_Click(System.Object,System.EventArgs)">
+ <summary>
+ Scroll forward through vendor collection and toggle buttons accordingly.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdPrev_Click(System.Object,System.EventArgs)">
+ <summary>
+ Scroll back through vendor collection and toggle buttons accordingly.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Launch save file dialog.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdLoad_Click(System.Object,System.EventArgs)">
+ <summary>
+ Launch open file dialog.
+ </summary>
+</member>
+</members>
+</doc>
